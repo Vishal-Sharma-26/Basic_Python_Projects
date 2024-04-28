@@ -1,4 +1,9 @@
-# Python program to implement rock, paper, scissor game
+'''
+This Program allows the user to play Rock, Paper, Scissors against the computer.
+The user inputs their choice, and the computer randomly selects its choice.
+The winner is then determined based on the rules of the game,
+And you can play the game as many times as you want.
+'''
 
 import random
 import time

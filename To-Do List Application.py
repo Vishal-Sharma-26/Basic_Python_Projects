@@ -1,3 +1,8 @@
+'''This simple To-Do List application allows users to add tasks, remove tasks, and view the current list of tasks.
+The tasks are stored in a list and displayed in a numbered format.
+The user can interact with the program through a console-based interface.'''
+
+
 class TodoList:
     def __init__(self):
         self.tasks = []

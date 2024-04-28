@@ -1,3 +1,12 @@
+'''
+A simple Tic Tac Toe game using Tkinter.
+Each player clicks on the buttons to place their mark (either X or O),
+and the game checks for a winner or a draw after each move.
+If there's a winner or a draw, it displays a message box and
+resets the game when the user clicks "OK".
+'''
+
+
 import tkinter as tk
 from tkinter import messagebox
 

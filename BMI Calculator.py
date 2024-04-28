@@ -1,3 +1,11 @@
+'''
+This script defines two functions: calculate_bmi to compute the BMI value based on weight and height,
+and interpret_bmi to interpret the BMI value and categorize it into underweight, normal weight, overweight, or obese.
+The main function takes user input for weight and height, calculates the BMI, and prints the result along with the category.
+'''
+
+
+
 def calculate_bmi(weight, height):
     """
     Calculate BMI (Body Mass Index) using weight (in kilograms) and height (in meters).

@@ -1,3 +1,10 @@
+'''
+A simple quiz game using Tkinter. It displays questions and multiple-choice options on the window,
+and the user can select an option by clicking on buttons.
+After selecting an option, it checks whether the selected option is correct and moves to the next question.
+Once all questions are answered, it displays the final score in a message box.
+'''
+
 import tkinter as tk
 from tkinter import messagebox
 

@@ -1,3 +1,11 @@
+'''
+This program prompts the user to input the amount to convert, the currency to convert from, and the currency to convert to.
+It then uses the currency_converter function to convert the amount using the forex-python library and displays the result.
+'''
+
+
+
+
 from forex_python.converter import CurrencyRates
 
 
